@@ -1,14 +1,12 @@
 ## About
 
-Wails template which includes: Vite, React, TS, TailwindCSS out of the box.
+Wails template which includes: Vite, React, TS, TailwindCSS, bun out of the box.
 
-Build with `Wails CLI v2.0.0`.
+Build with `Wails CLI v2.10.1`.
 
 To use this [template](https://wails.io/docs/community/templates):
 ```shell
-wails init -n "Your Project Name" -t https://github.com/hotafrika/wails-vite-react-ts-tailwind-template
-cd frontend/src
-npm install
+wails init -n "Your Project Name" -t https://github.com/xptea/wails-vite-react-ts-tailwind-bun-template
 ```
 
 [Here](scripts) you can find useful scripts for building on different platforms and Wails CLI installation.
